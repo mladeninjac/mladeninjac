@@ -36,7 +36,10 @@ always working towards achieving mutual goals.
 ## **Tools and Technologies**
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/mladeninjac/mladeninjac/blob/main/git-plain-wordmark.svg" width="50" style="margin-right: 10px;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/hibernate-plain.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/docker-plain.svg" width="40">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/hibernate-plain-wordmark.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/docker-plain.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/postman-plain-wordmark.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/maven-original-wordmark.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/junit-original-wordmark.svg" width="50">
 </div>
 
