@@ -15,7 +15,15 @@ always working towards achieving mutual goals.
 ## **Programming languages**
 <img src="https://github.com/mladeninjac/mladeninjac/blob/main/java-original-wordmark.svg" width="50">
 
-- Java
+
+## **Databases**
+
+
+## **Frameworks**
+
+
+## **Tools and Technologies**
+
 - Spring
 - REST
 - MySQL
