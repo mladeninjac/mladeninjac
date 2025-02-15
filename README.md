@@ -12,6 +12,9 @@ always working towards achieving mutual goals.
 
 
 ## 🛠 Skills
+## **Programming languages**
+<img src="https://github.com/mladeninjac/mladeninjac/blob/main/java-original-wordmark.svg" width="50">
+
 - Java
 - Spring
 - REST
