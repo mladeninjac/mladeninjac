@@ -13,22 +13,30 @@ always working towards achieving mutual goals.
 
 ## 🛠 Skills
 ## **Programming languages**
-<img src="https://github.com/mladeninjac/mladeninjac/blob/main/java-original-wordmark.svg" width="50">
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/java-original-wordmark.svg" width="50" style="margin-right: 10px;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/python-original-wordmark.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/javascript-plain.svg" width="40">
+</div>
 
 
 ## **Databases**
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/mysql-original-wordmark.svg" width="50" style="margin-right: 10px;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/postgresql-original-wordmark.svg" width="50">
+</div>
 
 
 ## **Frameworks**
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/spring-original-wordmark.svg" width="50" style="margin-right: 10px;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/react-original.svg" width="50">
+</div>
 
 ## **Tools and Technologies**
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/git-plain-wordmark.svg" width="50" style="margin-right: 10px;">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/hibernate-plain.svg" width="50">
+  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/docker-plain.svg" width="40">
+</div>
 
-- Spring
-- REST
-- MySQL
-- PostgreSQL
-- Hibernate
-
-
--->
