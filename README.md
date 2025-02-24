@@ -1,45 +1,24 @@
-## 👋Hey there, I'm Mladen!
-
-Backend developer
-
-
-## 🚀 About Me
-I'm a backend developer in Java programming language with basic knowledge of JavaScript and React.
-With 2 years of experience in Spring, REST API, MySQL, PostgreSQL using JPA and Hibernate 
-along with basics of testing in Python and React.js on the front-end. 
-As a former professional water polo player, I am adaptable and committed to teamwork,
-always working towards achieving mutual goals.
-
-
-## 🛠 Skills
-## **Programming languages**
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/java-original-wordmark.svg" width="50" style="margin-right: 10px;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/python-original-wordmark.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/javascript-plain.svg" width="40">
-</div>
-
-
-## **Databases**
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/mysql-original-wordmark.svg" width="50" style="margin-right: 10px;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/postgresql-original-wordmark.svg" width="50">
-</div>
-
-
-## **Frameworks**
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/spring-original-wordmark.svg" width="50" style="margin-right: 10px;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/react-original.svg" width="50">
-</div>
-
-## **Tools and Technologies**
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/git-plain-wordmark.svg" width="50" style="margin-right: 10px;">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/hibernate-plain-wordmark.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/docker-plain.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/postman-plain-wordmark.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/maven-original-wordmark.svg" width="50">
-  <img src="https://github.com/mladeninjac/mladeninjac/blob/main/junit-original-wordmark.svg" width="50">
-</div>
-
+<h1>Hi 👋, I'm Mladen!</h1>
+<p>I'm a backend developer in Java programming language with basic knowledge of JavaScript and React. With 2 years of experience in Spring, REST API, MySQL, PostgreSQL using JPA and Hibernate along with basics of testing in Python and React.js on the front-end. As a former professional water polo player, I am adaptable and committed to teamwork, always working towards achieving mutual goals.</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/mladeninjac" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mladeninjac&show_icons=true&locale=en" alt="mladeninjac" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mladeninjac&" alt="mladeninjac" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mladeninjac&show_icons=true&locale=en&layout=compact" alt="mladeninjac" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mladeninjac" alt="mladeninjac" /></a></p>
